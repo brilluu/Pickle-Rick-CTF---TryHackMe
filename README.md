@@ -1,1 +1,1 @@
-# Pickle-Rick-CTF---TryHackMe
+# Pickle-Rick-CTF-TryHackMe
